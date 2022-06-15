@@ -1,0 +1,14 @@
+@import url(//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css);
+body{
+    background-image: url("https://www.euromag.ru/storage/c/2020/02/25/1582624208_138973_26.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+.jumbotron{
+    background: white;
+    transform: translate(-50%, -50%);
+}
+.fa{
+    color: #1BAB47;
+}
